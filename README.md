@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnab Bera</h1>
 <h3 align="center">A passionate MERN Stack developer from India !</h3>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
 - 📫 How to reach me **arnabbera119@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
