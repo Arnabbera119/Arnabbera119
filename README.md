@@ -64,5 +64,5 @@ I enjoy building efficient, scalable solutions and working across databases, bac
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/arnab-bera-17503625a/ 
+- 📧 Email: arnabbera119@gmail.com  
