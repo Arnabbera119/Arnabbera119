@@ -51,24 +51,14 @@ I enjoy building efficient, scalable solutions and working across databases, bac
 
 ## 📂 Featured Work
 
-> *(Replace these with your actual repositories)*
+- 🔹 **Wanderlust (MERN Stack Project)**  
+  An innovative online marketplace that connects property owners with travelers, enabling seamless listing, discovery, and booking of short-term accommodations.
 
-- 🔹 **Banking Database System**  
-  Complex SQL queries with joins, subqueries, and normalization  
-
-- 🔹 **REST API Project**  
-  Backend service built with Node.js and Express  
+- 🔹 **ShopNext (React E-Commerce)**  
+  ShopNext is a React-based e-commerce UI with product browsing, filtering, cart management, and light/dark theme support.
 
 - 🔹 **Data Analysis Scripts**  
   Python scripts for handling and analyzing datasets  
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 ---
 
@@ -76,15 +66,3 @@ I enjoy building efficient, scalable solutions and working across databases, bac
 
 - 💼 LinkedIn: https://linkedin.com/in/your-profile  
 - 📧 Email: your-email@example.com  
-
----
-
-## ⚡ Fun Fact
-
-I enjoy breaking down complex problems into simple, logical solutions — especially when databases are involved.
-
----
-
-## ⭐ Thanks for Visiting!
-
-If you find my work interesting, feel free to explore my repositories and connect with me.
